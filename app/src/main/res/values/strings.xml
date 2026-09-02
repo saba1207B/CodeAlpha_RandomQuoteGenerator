@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Quote Generator</string>
+    <string name="new_quote_button">New Quote</string>
+    <string name="share_quote">Share Quote</string>
+    <string name="copy_quote">Copy Quote</string>
+    <string name="quote_copied">Quote copied to clipboard!</string>
+    <string name="favorite_quote">Favorite</string>
+    <string name="app_subtitle">Daily Inspiration &amp; Wisdom</string>
+</resources>
